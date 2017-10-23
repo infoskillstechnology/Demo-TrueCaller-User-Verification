@@ -127,7 +127,8 @@ IMPORTANT: TrueSDK already verifies the Request-Response correlation before forw
 
 ## LICENSE
 
-```Copyright 2017 Info Skills Technology Pvt. Ltd.
+```
+Copyright 2017 Info Skills Technology Pvt. Ltd.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
